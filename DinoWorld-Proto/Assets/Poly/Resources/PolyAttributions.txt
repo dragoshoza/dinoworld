@@ -1,0 +1,25 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Armored Brachio
+Author: Hoai Nguyen
+URL: https://poly.google.com/view/7g8aknS_nmx
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Dimonstrodon
+Author: Hoai Nguyen
+URL: https://poly.google.com/view/enkjj4B0ZLf
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: t rex
+Author: Aeron Quick
+URL: https://poly.google.com/view/4G4h1nCd2q_
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: T-Rex scanned with Qlone
+Author: Ronen Horovitz
+URL: https://poly.google.com/view/aE9YST6yyIH
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
