@@ -62,7 +62,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CoinMovingScript.cs" />
+    <Compile Include="Assets\ColideController.cs" />
+    <Compile Include="Assets\ElementsInitializer.cs" />
+    <Compile Include="Assets\KeepSpawningEnemies.cs" />
     <Compile Include="Assets\NewBehaviourScript.cs" />
+    <Compile Include="Assets\PlayerEnemyColision.cs" />
+    <Compile Include="Assets\Poly\EnemyMovingScript.cs" />
     <Compile Include="Assets\PolyToolkit\ExampleScripts\HelloPoly.cs" />
     <Compile Include="Assets\PolyToolkit\ExampleScripts\Rotate.cs" />
     <Compile Include="Assets\PolyToolkit\ExampleScripts\ShowFeaturedExample.cs" />
@@ -113,6 +119,14 @@
     <Compile Include="Assets\PolyToolkit\Scripts\PolyTypes.cs" />
     <Compile Include="Assets\PolyToolkit\Scripts\PtAsset.cs" />
     <Compile Include="Assets\PolyToolkit\Scripts\PtAssetObject.cs" />
+    <Compile Include="Assets\SceneManagerScript.cs" />
+    <Compile Include="Assets\ScoreController.cs" />
+    <Compile Include="Assets\Simple Health Bar\_Asteroids Example\Scripts\AsteroidController.cs" />
+    <Compile Include="Assets\Simple Health Bar\_Asteroids Example\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Simple Health Bar\_Asteroids Example\Scripts\HealthPickupController.cs" />
+    <Compile Include="Assets\Simple Health Bar\_Asteroids Example\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Simple Health Bar\_Asteroids Example\Scripts\PlayerHealth.cs" />
+    <Compile Include="Assets\Simple Health Bar\Scripts\SimpleHealthBar.cs" />
     <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\Bubbles\Bubbles.shader" />
     <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
     <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\SoftHighlighter\SoftHighlighter.shader" />
@@ -125,16 +139,19 @@
     <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\Toon\Toon.shader" />
     <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
     <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Shared\Shaders\DiffuseOpaqueDoubleSided.shader" />
+    <None Include="Assets\Poly\Sources\Prueba_Isaac_Martinez_8lCgqxorLLS\FileNameMapping.txt" />
     <None Include="Assets\Vuforia\Shaders\VuforiaVB_YUVNV12_YUVNV21.cginc" />
+    <None Include="Assets\Simple Health Bar\README.txt" />
     <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
     <None Include="Assets\Vuforia\Shaders\OutlineOpaque.shader" />
     <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Shared\Shaders\DiffuseOpaqueSingleSided.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\Dinos.xml" />
     <None Include="Assets\PolyToolkit\Internal\tbt\Shaders\Unlit-Diffuse.shader" />
     <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\Hypercolor\HypercolorDoubleSided.shader" />
     <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\Disco\Disco.shader" />
     <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\WaveformPulse\NeonPulse.shader" />
     <None Include="Assets\Poly\Resources\PolyAttributions.txt" />
-    <None Include="Assets\StreamingAssets\Vuforia\Dinos.xml" />
+    <None Include="Assets\Poly\Sources\Mel_is_testing_Melissa_Stubbings_8oqJ071L140\FileNameMapping.txt" />
     <None Include="Assets\Vuforia\Shaders\VuforiaVB_YUV420P_YUVYV12.cginc" />
     <None Include="Assets\Poly\Sources\T_Rex_scanned_with_Qlone_Ronen_Horovitz_aE9YST6yyIH\FileNameMapping.txt" />
     <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\Highlighter\AdditiveCutout.shader" />

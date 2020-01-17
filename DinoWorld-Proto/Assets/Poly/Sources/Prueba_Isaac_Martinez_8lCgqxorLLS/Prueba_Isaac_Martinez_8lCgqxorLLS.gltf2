@@ -1,0 +1,368 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 25566,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5123,
+      "count": 33054,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4363,
+      "max": [
+        2.2561769485473633,
+        7.86088228225708,
+        1.7499704360961914
+      ],
+      "min": [
+        -2.2601356506347656,
+        -8.089133262634277,
+        -1.7443852424621582
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 6990,
+      "max": [
+        8.853873252868652,
+        30.720813751220703,
+        30.495361328125
+      ],
+      "min": [
+        -8.853890419006348,
+        7.554142939625308E-6,
+        -36.385440826416016
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 4363,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 6990,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 6990,
+      "type": "VEC2"
+    }
+  ],
+  "asset": {
+    "generator": "Microsoft GLTF Exporter 2.4.2.8",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 51132,
+      "byteOffset": 0,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 66108,
+      "byteOffset": 51132,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 52356,
+      "byteOffset": 117240,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 83880,
+      "byteOffset": 169596,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 52356,
+      "byteOffset": 253476,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 83880,
+      "byteOffset": 305832,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 55920,
+      "byteOffset": 389712,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1,
+      "byteOffset": 0
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 445652,
+      "uri": "prueba.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "image0.png"
+    },
+    {
+      "uri": "image1.png"
+    },
+    {
+      "uri": "image2.png"
+    },
+    {
+      "uri": "image3.png"
+    },
+    {
+      "uri": "image4.png"
+    },
+    {
+      "uri": "image5.png"
+    },
+    {
+      "uri": "image6.png"
+    },
+    {
+      "uri": "image7.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseTexture": {
+            "index": 0
+          },
+          "specularGlossinessTexture": {
+            "index": 1
+          }
+        }
+      },
+      "extras": {
+        "MSFT_sRGBFactors": false
+      },
+      "name": "59",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      }
+    },
+    {
+      "alphaMode": "MASK",
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseTexture": {
+            "index": 4
+          },
+          "specularGlossinessTexture": {
+            "index": 5
+          }
+        }
+      },
+      "extras": {
+        "MSFT_sRGBFactors": false
+      },
+      "name": "54",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "mesh_id27",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 2,
+            "NORMAL": 4
+          },
+          "indices": 0,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "mesh_id33",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 3,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 1,
+          "material": 1
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "scale": [
+        0.032601844519376755,
+        0.03260185196995735,
+        0.03260185196995735
+      ],
+      "translation": [
+        0.170093834400177,
+        -0.03677929937839508,
+        0.681523859500885
+      ]
+    },
+    {
+      "children": [
+        0,
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "mesh": 1,
+      "name": "node_id32",
+      "rotation": [
+        -4.440892098500626E-16,
+        8.676113300021271E-11,
+        -0.0,
+        1.0
+      ],
+      "scale": [
+        0.016666229814291,
+        0.016666229814291,
+        0.016666229814291
+      ],
+      "translation": [
+        -0.20249156653881073,
+        -0.30050012469291687,
+        0.6328406929969788
+      ]
+    }
+  ],
+  "samplers": [
+    {
+      "minFilter": 9985
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        1
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "texture331",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "texture332",
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "name": "59_bc",
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "name": "59_mr",
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "name": "texture5",
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "name": "texture7",
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "name": "54_bc",
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "name": "54_mr",
+      "sampler": 0,
+      "source": 7
+    }
+  ]
+}

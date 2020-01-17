@@ -1,0 +1,4 @@
+#Tue Jan 14 17:59:40 EET 2020
+base.0=C\:\\Users\\drago\\Desktop\\DinoWorld_Proto\\DinoWorld-Proto\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -77,6 +77,8 @@
     <Compile Include="Assets\PolyToolkit\Editor\PtUtils.cs" />
     <Compile Include="Assets\PolyToolkit\Editor\WarnAboutUsingPolyInternal.cs" />
     <Compile Include="Assets\PolyToolkit\Editor\WarnIfManagerNotInScene.cs" />
+    <Compile Include="Assets\Simple Health Bar\Editor\SimpleHealthBarEditor.cs" />
+    <Compile Include="Assets\Simple Health Bar\Editor\SimpleHealthBarWindow.cs" />
     <None Include="Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\authoringinfo.xml" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/drago/Desktop/DinoWorld_Proto/DinoWorld-Proto/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
